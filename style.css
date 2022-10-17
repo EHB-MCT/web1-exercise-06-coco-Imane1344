@@ -1,0 +1,58 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Abel&family=Karla&family=Spectral:wght@600&display=swap');
+body{
+
+    color: white;
+    font-size: small;
+    font-family:"Abel", sans-serif;
+ 
+    
+}
+
+.item {
+
+    width: 1200px;
+    background-image: url(images/coco.jpg);
+    height: 700px;
+    margin: 0 auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.logo{
+
+    position:relative;
+    float: right;
+    width: 500px;
+    height: auto;
+    margin-top: 50px;
+    margin-right: 80px;
+    
+}
+
+.logo img{
+    width: 300px;
+    margin-top:50px;
+    margin-bottom: 30px;
+    margin-left: 75px;
+    
+}
+
+
+    a {
+        border-radius: 10px;
+        background-color: orange;
+        color: white;
+        padding: 17px;
+        text-decoration: none;
+        display: inline-block;
+        margin-top: 10px;
+        height: 10px;
+    
+    }
+
+
+
